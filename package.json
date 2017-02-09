@@ -1,0 +1,22 @@
+{
+  "name": "certificacao_bootstrap",
+  "version": "1.0.0",
+  "description": "Curos de Certificacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "boostratrap",
+    "junior",
+    "lyestah"
+  ],
+  "author": "Junior Gonçalves",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "git": "^0.1.5",
+    "gulp": "^3.9.1"
+  }
+}
